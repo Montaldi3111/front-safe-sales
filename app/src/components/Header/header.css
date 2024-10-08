@@ -17,6 +17,7 @@ header nav div{
     @apply w-[20%];
     @apply max-w-[200px];
     @apply bg-lightBlue;
+    @apply text-center;
     @apply py-4;
     @apply px-7;
     @apply text-sm;
